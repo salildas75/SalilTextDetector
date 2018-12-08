@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1041863864893",
+    "firebase_url": "https://saliltextdetector.firebaseio.com",
+    "project_id": "saliltextdetector",
+    "storage_bucket": "saliltextdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041863864893:android:8ce1490e8b3b79ca",
+        "android_client_info": {
+          "package_name": "com.example.salildas.saliltextdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041863864893-0i7r7a8jjia5qcaopm5kv30e39vrdjuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salildas.saliltextdetector",
+            "certificate_hash": "c1e3f3dc256ede94d9b93eb651a177007fdeafb5"
+          }
+        },
+        {
+          "client_id": "1041863864893-0scr7pv460gkm1im92ee8h26vmchupls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNSUb37WqHRzFxg9Akmu63vI50agQN5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041863864893-0scr7pv460gkm1im92ee8h26vmchupls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
